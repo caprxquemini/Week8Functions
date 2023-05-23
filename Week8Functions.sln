@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week8Functions", "Week8Functions\Week8Functions.csproj", "{4EFAA465-6BCB-4F0C-8BF2-5573E118D9FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsWithReturn", "FunctionsWithReturn\FunctionsWithReturn.csproj", "{DEEC9894-B954-42D4-A00D-851B0311BE6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFAA465-6BCB-4F0C-8BF2-5573E118D9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFAA465-6BCB-4F0C-8BF2-5573E118D9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFAA465-6BCB-4F0C-8BF2-5573E118D9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFAA465-6BCB-4F0C-8BF2-5573E118D9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEEC9894-B954-42D4-A00D-851B0311BE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEC9894-B954-42D4-A00D-851B0311BE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEC9894-B954-42D4-A00D-851B0311BE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEC9894-B954-42D4-A00D-851B0311BE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85EADC7F-4279-444F-A7B9-CC22ECE48D2D}
+	EndGlobalSection
+EndGlobal
